@@ -1,0 +1,51 @@
+public class student{
+
+//field name :
+
+private int rollnumber;
+private int marks;
+
+//getter setter used
+
+
+public int getrollnumber(){
+return this.rollnumber;
+}
+
+public int getmarks(){
+return this.marks;
+}
+//setter 
+public void setrollnumber(int rollnumberforSetting){
+this.rollnumber = rollnumberforSetting;
+}
+public void setmarks(int marksforSetting){
+this.marks = marksforSetting;
+}
+//parameterised constructor 
+//access modifier classname (){}
+public student(){
+}
+public student(int rollnumber , int marks){
+this.rollnumber = rollnumber;
+this.marks = marks;
+}
+
+    @Override
+    public String toString() {
+        return "student{" +
+                "rollnumber=" + rollnumber +
+                ", marks=" + marks +
+                '}';
+    }
+
+    //object -
+public static void main(String[] args){
+
+//className instance name = newClassname()
+student Anand = new student(001 , 95);
+System.out.println(Anand.getrollnumber());
+System.out.println(Anand.getmarks());
+    System.out.println(Anand.toString());
+}
+}
