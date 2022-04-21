@@ -1,0 +1,91 @@
+import java.util.Scanner;
+
+public class Employee {
+
+
+private int empid;
+private String name;
+private String dept;
+
+
+public int getempid()
+{return this.empid;}
+
+public String getname()
+{return this.name;}
+
+public String getdept()
+{return this.dept;}
+
+
+
+
+public void setempid(int empidforSetting)
+{this.empid=empidforSetting;}
+
+public void setname(String nameforSetting)
+{this.name=nameforSetting;}
+
+public void setdept(String deptforSetting)
+{this.dept=deptforSetting;}
+
+
+public Employee(){}
+
+
+public Employee(int empid , String name , String dept){
+this.empid=empid;
+this.name=name;
+this.dept=dept;
+}
+
+
+@Override
+public String toString(){
+return "Employee("+"empid"+empid+",name"+name+",dept="+dept+")";
+}
+
+
+
+public static void main (String[]args){
+Employee Anand =new Employee(2425,"Anand","Apieng");
+
+System.out.println(Anand.getempid());
+System.out.println(Anand.getname());
+System.out.println(Anand.getdept());
+System.out.println(Anand.toString());
+System.out.println();
+
+
+Employee Swati = new Employee(2455, "Swati","frontend");
+
+System.out.println(Swati.getempid());
+System.out.println(Swati.getname());
+System.out.println(Swati.getdept());
+System.out.println(Swati.toString());
+System.out.println();
+
+Employee amanraj = new Employee(24528, "amanraj","fullstack");
+
+System.out.println(amanraj.getempid());
+System.out.println("name "+amanraj.getname());
+System.out.println(amanraj.getdept());
+System.out.println(amanraj.toString());
+System.out.println();
+
+
+//GETTING INPUTS FROM USER:
+
+
+Scanner x = new Scanner(System.in);
+int a = x.nextInt();
+String b = x.next();
+String c = x.next();
+
+amanraj = new Employee(a , b ,c);
+System.out.println(amanraj.toString());
+
+
+}
+}
+
