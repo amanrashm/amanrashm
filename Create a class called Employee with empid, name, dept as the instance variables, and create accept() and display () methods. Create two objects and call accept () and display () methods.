@@ -8,26 +8,26 @@ private String name;
 private String dept;
 
 
-public int getempid()
-{return this.empid;}
+public int getEmpId()
+{return this.EmpId;}
 
-public String getname()
-{return this.name;}
+public String getName()
+{return this.Name;}
 
-public String getdept()
-{return this.dept;}
-
-
+public String getDept()
+{return this.Dept;}
 
 
-public void setempid(int empidforSetting)
-{this.empid=empidforSetting;}
 
-public void setname(String nameforSetting)
-{this.name=nameforSetting;}
+
+public void setEmpId(int EmpIdforSetting)
+{this.EmpId=empidforSetting;}
+
+public void setName(String NameforSetting)
+{this.Name=NameforSetting;}
 
 public void setdept(String deptforSetting)
-{this.dept=deptforSetting;}
+{this.Dept=DeptforSetting;}
 
 
 public Employee(){}
