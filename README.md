@@ -1,66 +1,51 @@
-### Hi Aman Raj 👋
-**amanrashm/aman0990**
+## Hey there<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Aman
+![version :26.12.2021](https://img.shields.io/badge/version-14.08.2021-informational) &nbsp;
+![profile count](https://komarev.com/ghpvc/?username=amanrashm&color=red)&nbsp;
+[![GitHub kanmaytacker](https://img.shields.io/github/followers/amanrashm?label=follow&style=social)](https://github.com/kanmaytacker)&nbsp;
+![build: passing](https://img.shields.io/badge/build-passing-success)
 
-- 🔭 I’m currently looking for position as ...java fullStack Developer
-- 💬 Ask me about ...java
--  💬 Ask me about ...react
--   💬 Ask me about ...leadership
--    💬 Ask me about ...Stock Tradng
--     💬 Ask me about ...Updated Technologies
--      💬 Ask me about ...My Journey Towards my Life
--      📫 How to reach me: ...amanra664@gmail.com
--     📫 How to reach me: ...https://www.linkedin.com/in/aman-raj-6168b616a/
--    📫 How to reach me: ...https://www.codechef.com/users/amanrash
--   📫 How to reach me: ...https://leetcode.com/amanraaj/
--  📫 How to reach me: ...https://github.com/amanrashm
-- 📫 How to reach me: ...https://github.com/aman0990/
--  😄 Pronouns: ... Aman
--   ⚡ Fun fact: ...java is easy to understand Hard to learn (Conclusion : ...Understand Dont't Learn)
--    ✌️ Objectives: ...Looking forward to indulge myself on a platform where there is scope of growth, ## innovation and gain experience and as a whole would integrate           myself with the company for mutual ## excellence.
--      ✌️ Summary: ...I just accomplished my degree of Bachelor of Science in Aircraft maintenance Engineering ## from Singhania University. I did my schooling from             Lucknow.I am sincere, trustworthy and truthful. I ## am a very good team player.
--        Academic Information
--     1 High School CBSE 2014 64.4%
--    2 Intermediate BSEB 2017 54.4%
--   3 Director ## General of ## Civil Aviation ## Director ## General of ## Civil Aviation ## 2021 79%
--  4 Bachelor of ## Science ## SU 2022 80%
-## Projects:-
 
-## 1. Banking Application using jsp/servlet
+## 👨🏻‍💻 &nbsp;About Me
 
-## 2. Employee management Application
+💡 &nbsp;I'm a Aircraft Engineer and Full-Stack Java Developer who has spent 6+ months learning Java along with React-js.\
+🎓 &nbsp;I'm an alumnus of [SU Rajsthan](https://singhaniauniversity.co.in/). A proud Moti ka lal :D \
 
-## 3. Student management system using SpringBoot
+🛠 &nbsp;My last work project was building [Order Management System](https://github.com/aman0990/oracledb) at [GaragePlug]. I have previously worked for [Trujet Airlines](https://www.trujet.com/#/home). \
+🌱 &nbsp;The brain fascinates me and you had me at Computational Neuroscience.\
+🌱 &nbsp;The space is where we are headed, and that just might save us from impending doom.\
+✉️ &nbsp;You can email me at amanra664@gmail.com.
 
-## 4. Travel booking application using REACT-JS
+## 🔧 Latest work
+- [Hotel Management System](https://github.com/aman0990/HotelBooking)
+- [Airline Management System](https://github.com/aman0990/RajAirlines/tree/master/airline-ticket-spring-boot-project-master)
 
-## 5. UserManagement application using SpringBoot
+## &#x270d; Latest posts
 
-## 6. Airline Ticketing Service
+- [None for now]
 
-## 7. Order Management System
+## 📖 &nbsp; Reading list
 
-## 8. Train Ticket Booking
+- [ ] [Monk Who Sold His Ferrari]
+- [ ] [Data Structures With Java]
 
-- Computer Skills :-
 
-## 1. MS OFFICE ## 2. J2SE ## 3. J2EE ## 4. RDBMS ## 5. BASIC OF SPRING ## 6. SPRING BOOT ## 7. ReactJs
+## 🔧 Technologies & Tools
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Html5-informational?style=flat&logo=Html&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Css-informational?style=flat&logo=Css&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-Eclipse-informational?style=flat&logo=eclipseide&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visualstudiocode&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-SpringBoot-informational?style=flat&logo=SpringBoot&logoColor=white&color=2bbc8a)
 
-## 8. Hibernate ## 9. JavaScript ## 10. Html5 ## 11. Css ## 12. JSON ## 13.express-JS ## 14.Node-js
+## 📫 &nbsp; How to reach me:
 
-- Hobbies: 
-  ## 1. Badminton 
-  ## 2. Listening Music 
-  ## 3. Reading Books
-  
-  Achievements and Extracurricular activities:
+<a href="https://www.linkedin.com/in/aman-raj-6168b616a/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
+<a href="mailto:amanra664@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
+<a href="mailto:amesoln@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
 
-## ● Won the Inter Departmental Badminton Competition 2018-2021 Consistent ## ● A Certified Direct Seller from ASSOCHAM. ## 
-- ● I have two Youtube Channels
-## ●CodeError https://www.youtube.com/channel/UC-tiNJLxqiix-yswWo65cRw
-## ● OPTION TRADING [ market moment picker ]. https://www.youtube.com/channel/UC7vQ-cgfzynbjZmcnI2ApCg
-
-- Declaration
-
-## I hereby declare that all the above mentioned information given by me are true to the best of my ## knowledge and belief and if there are any discrepancies found, I shall be liable for any disciplinary ## action deemed suitable by the competent authority.
-
-- Signature : ...AmanRaj
+### If you like what I do
+<a href="https://www.buymeacoffee.com/amanrash" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me Chai" width="150" ></a>
