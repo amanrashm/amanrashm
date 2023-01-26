@@ -8,7 +8,7 @@
 ## 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I'm a Aircraft Engineer and Full-Stack Java Developer who has spent 6+ months learning Java along with React-js.\
-🎓 &nbsp;I'm an alumnus of [SU Rajsthan](https://singhaniauniversity.co.in/). A proud Moti ka lal :D \
+🎓 &nbsp;I'm an alumnus of [SU Rajsthan](https://singhaniauniversity.co.in/). :D \
 
 🛠 &nbsp;My last work project was building [Order Management System](https://github.com/aman0990/oracledb) at [GaragePlug]. I have previously worked for [Trujet Airlines](https://www.trujet.com/#/home). \
 🌱 &nbsp;The brain fascinates me and you had me at Computational Neuroscience.\
