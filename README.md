@@ -26,6 +26,15 @@
 ## 📖 &nbsp; Reading list
 
 - [ ] [Monk Who Sold His Ferrari]
+- [ ] [The Physiological Of Money]
+- [ ] [101 Copy Cat Marketing]
+- [ ] [Rich Dad Poor Dad]
+- [ ] [Parable Of Pipeline]
+- [ ] [Agni : Missile Man]
+- [ ] [Vivekanand]
+- [ ] [Bhagwat Gita : (Solved of my life )]
+- [ ] [ESBI]
+- [ ] [Raavan]
 - [ ] [Data Structures With Java]
 
 
