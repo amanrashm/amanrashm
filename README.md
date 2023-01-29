@@ -32,7 +32,7 @@
 - [ ] [Parable Of Pipeline]
 - [ ] [Agni : Missile Man]
 - [ ] [Vivekanand]
-- [ ] [Bhagwat Gita : (Solved of my life )]
+- [ ] [Bhagwat Gita : (Solution of my life )]
 - [ ] [ESBI]
 - [ ] [Raavan]
 - [ ] [Data Structures With Java]
