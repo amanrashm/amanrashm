@@ -1,5 +1,5 @@
 ## Hey there<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Aman
-![version :29.01.2023](https://img.shields.io/badge/version-29.01.2023-informational) &nbsp;
+![version :30.01.2023](https://img.shields.io/badge/version-30.01.2023-informational) &nbsp;
 ![profile count](https://komarev.com/ghpvc/?username=amanrashm&color=red)&nbsp;
 [![GitHub amanrashm ](https://img.shields.io/github/followers/amanrashm?label=follow&style=social)](https://github.com/amanrashm)&nbsp;
 ![build: passing](https://img.shields.io/badge/build-passing-success)
@@ -16,8 +16,14 @@
 ✉️ &nbsp;You can email me at amanra664@gmail.com.
 
 ## 🔧 Latest work
+- [React-Js Project]
 - [Hotel Management System](https://github.com/aman0990/HotelBooking)
+- [Spring Project]
 - [Airline Management System](https://github.com/aman0990/RajAirlines/tree/master/airline-ticket-spring-boot-project-master)
+- [React-Js Project]
+- [Amazon Dummy](https://github.com/amanrashm/Amazon)
+- [Core Java Project]
+- [Train Ticket Booking Syatem](https://github.com/aman0990/TrainTicketBookingSystem)
 
 ## &#x270d; Latest posts
 
