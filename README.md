@@ -24,6 +24,10 @@
 - [Amazon Dummy](https://github.com/amanrashm/Amazon)
 - [Core Java Project]
 - [Train Ticket Booking Syatem](https://github.com/aman0990/TrainTicketBookingSystem)
+- [React-js Project]
+- [Java Hyd Team](https://github.com/aman0990/JavaHydTeam/tree/main/javahydteam)
+- [React-js Project]
+- [Movie Review Site ](https://github.com/aman0990/JavaHydTeam/tree/main/learnr1)
 
 ## &#x270d; Latest posts
 
