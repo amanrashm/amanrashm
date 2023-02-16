@@ -1,5 +1,5 @@
 ## Hey there<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Aman
-![version :30.01.2023](https://img.shields.io/badge/version-30.01.2023-informational) &nbsp;
+![version :16.02.2023](https://img.shields.io/badge/version-30.01.2023-informational) &nbsp;
 ![profile count](https://komarev.com/ghpvc/?username=amanrashm&color=red)&nbsp;
 [![GitHub amanrashm ](https://img.shields.io/github/followers/amanrashm?label=follow&style=social)](https://github.com/amanrashm)&nbsp;
 ![build: passing](https://img.shields.io/badge/build-passing-success)
@@ -8,7 +8,7 @@
 ## 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I'm a Aircraft Engineer and Full-Stack Java Developer who has spent 6+ months learning Java along with React-js.\
-🎓 &nbsp;I'm an alumnus of [SU Rajsthan](https://singhaniauniversity.co.in/). :D \
+🎓 &nbsp;I'm an alumnus of [SU Rajsthan](https://singhaniauniversity.co.in/).
 
 🛠 &nbsp;My last work project was building [Order Management System](https://github.com/aman0990/oracledb) at [GaragePlug]. I have previously worked for [Trujet Airlines](https://www.trujet.com/#/home). \
 🌱 &nbsp;The brain fascinates me and you had me at Computational Neuroscience.\
