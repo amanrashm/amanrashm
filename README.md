@@ -36,7 +36,7 @@
 ## 📖 &nbsp; Reading list
 
 - [ ] [Monk Who Sold His Ferrari]
-- [ ] [The Physiological Of Money]
+- [ ] [The Physiology Of Money]
 - [ ] [101 Copy Cat Marketing]
 - [ ] [Rich Dad Poor Dad]
 - [ ] [Parable Of Pipeline]
