@@ -13,7 +13,7 @@
 🛠 &nbsp;My last work project was building [Order Management System](https://github.com/aman0990/oracledb) at [GaragePlug]. I have previously worked for [Trujet Airlines](https://www.trujet.com/#/home). \
 🌱 &nbsp;The brain fascinates me and you had me at Computational Neuroscience.\
 🌱 &nbsp;The space is where we are headed, and that just might save us from impending doom.\
-✉️ &nbsp;You can email me at amanra664@gmail.com.
+✉️ &nbsp;You can email me at amanrashm@gmail.com.
 
 ## 🔧 Latest work
 - [React-Js Project]
