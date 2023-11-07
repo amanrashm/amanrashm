@@ -8,6 +8,8 @@
 ## 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I'm a Aircraft Engineer and Full-Stack Java Developer who has spent 6+ months learning Java along with React-js.\
+🌱 &nbsp;I have worked for [Thomson Reuters](https://www.thomsonreuters.com/en.html) on [Cleardocs](https://www.cleardocs.com/) project.
+🌱 &nbsp;I hav delivered couple of functionalities that helped them comply with [Australlian Govt](https://asic.gov.au/) rules.
 🎓 &nbsp;I'm an alumnus of [SU Rajsthan](https://singhaniauniversity.co.in/).
 
 🛠 &nbsp;My last work project was building [Order Management System](https://github.com/aman0990/oracledb) at [GaragePlug]. I have previously worked for [Trujet Airlines](https://www.trujet.com/#/home). \
@@ -55,7 +57,7 @@
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresq&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-OracleDb-informational?style=flat&logo=Oracledb&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Jenkins-informational?style=flat&logo=jenkins&logoColor=white&color=2bbc8a)
