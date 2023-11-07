@@ -9,7 +9,7 @@
 
 💡 &nbsp;I'm a Aircraft Engineer and Full-Stack Java Developer who has spent 6+ months learning Java along with React-js.\
 🌱 &nbsp;I have worked for [Thomson Reuters](https://www.thomsonreuters.com/en.html) on [Cleardocs](https://www.cleardocs.com/) project.\
-🌱 &nbsp;I have delivered couple of functionalities that helped them comply with [Australlian Govt](https://asic.gov.au/) rules.
+🌱 &nbsp;I have delivered couple of functionalities that helped them comply with [Australlian Govt](https://asic.gov.au/) rules.\
 🎓 &nbsp;I'm an alumnus of [SU Rajsthan](https://singhaniauniversity.co.in/).
 
 🛠 &nbsp;My last work project was building [Order Management System](https://github.com/aman0990/oracledb) at [GaragePlug]. I have previously worked for [Trujet Airlines](https://www.trujet.com/#/home). \
