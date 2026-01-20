@@ -1,5 +1,5 @@
 ## Hey there<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Aman
-![version :23.09.2024](https://img.shields.io/badge/version-11.07.2023-informational) &nbsp;
+![version :23.09.2024](https://img.shields.io/badge/version-23.09.2024-informational) &nbsp;
 ![profile count](https://komarev.com/ghpvc/?username=amanrashm&color=red)&nbsp;
 [![GitHub amanrashm ](https://img.shields.io/github/followers/amanrashm?label=follow&style=social)](https://github.com/amanrashm)&nbsp;
 ![build: passing](https://img.shields.io/badge/build-passing-success)
