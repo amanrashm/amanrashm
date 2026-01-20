@@ -7,9 +7,10 @@
 
 ## 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I'm a Aircraft Engineer and Full-Stack Java Developer who has spent 6+ months learning Java along with React-js.\
-💡 &nbsp;I have in total 1 year and 6 months of experiance working into corporate as well as freelancer.\
+💡 &nbsp;I'm a Aircraft Engineer and Full-Stack Java Developer who has spent 5+ years learning Java along with React-js and .Net / Angular 18 & 20.\
+💡 &nbsp;I have in total 4 year and 6 months of experiance working into corporate as well as freelancer.\
 🌱 &nbsp;I have worked for [Thomson Reuters](https://www.thomsonreuters.com/en.html) on [Cleardocs](https://www.cleardocs.com/) project.\
+🌱 &nbsp;I have worked for [InvestCloud LLC](https://investcloud.com/) on [RECON /TRADEFLOW /CHARLES RIVER TRADING SYSTEM /OPS CENTRAL] project.\
 🌱 &nbsp;I have delivered couple of functionalities that helped them comply with [Australlian Govt](https://asic.gov.au/) rules.\
 🎓 &nbsp;I'm an alumnus of [SU Rajsthan](https://singhaniauniversity.co.in/).
 
